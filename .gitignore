@@ -2,3 +2,4 @@
 dataset
 .env
 checkpoints/
+violence_detection_model1.h5
