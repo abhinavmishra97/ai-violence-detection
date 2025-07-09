@@ -1,4 +1,4 @@
 .venv/
-dataset/
+dataset
 .env
 checkpoints/
